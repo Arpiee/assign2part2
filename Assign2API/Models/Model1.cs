@@ -13,6 +13,7 @@ namespace Assign2API.Models
         {
 
         }
+
         public DbSet<Chopper> Choppers { get; set; }
     }
 }
