@@ -1,0 +1,11 @@
+C:\Users\arpit\Desktop\asiignment 2api\Assign2API\Assign2API\bin\Debug\netcoreapp2.0\Assign2API.deps.json
+C:\Users\arpit\Desktop\asiignment 2api\Assign2API\Assign2API\bin\Debug\netcoreapp2.0\Assign2API.runtimeconfig.json
+C:\Users\arpit\Desktop\asiignment 2api\Assign2API\Assign2API\bin\Debug\netcoreapp2.0\Assign2API.runtimeconfig.dev.json
+C:\Users\arpit\Desktop\asiignment 2api\Assign2API\Assign2API\bin\Debug\netcoreapp2.0\Assign2API.dll
+C:\Users\arpit\Desktop\asiignment 2api\Assign2API\Assign2API\bin\Debug\netcoreapp2.0\Assign2API.pdb
+C:\Users\arpit\Desktop\asiignment 2api\Assign2API\Assign2API\obj\Debug\netcoreapp2.0\Assign2API.csprojResolveAssemblyReference.cache
+C:\Users\arpit\Desktop\asiignment 2api\Assign2API\Assign2API\obj\Debug\netcoreapp2.0\Assign2API.csproj.CoreCompileInputs.cache
+C:\Users\arpit\Desktop\asiignment 2api\Assign2API\Assign2API\obj\Debug\netcoreapp2.0\Assign2API.AssemblyInfoInputs.cache
+C:\Users\arpit\Desktop\asiignment 2api\Assign2API\Assign2API\obj\Debug\netcoreapp2.0\Assign2API.AssemblyInfo.cs
+C:\Users\arpit\Desktop\asiignment 2api\Assign2API\Assign2API\obj\Debug\netcoreapp2.0\Assign2API.dll
+C:\Users\arpit\Desktop\asiignment 2api\Assign2API\Assign2API\obj\Debug\netcoreapp2.0\Assign2API.pdb
