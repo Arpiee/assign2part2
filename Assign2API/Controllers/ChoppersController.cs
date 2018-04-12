@@ -29,9 +29,16 @@ namespace Assign2API.Controllers
 
         // GET: api/Choppers/5
         [HttpGet("{id}", Name = "Get")]
-        public string Get(int id)
+        public IActionResult Get(int id)
         {
-            return "value";
+            var chopper = db.Choppers.SingleOrDefault(a => a.ChopperId == id);
+
+            if (chopper == null)
+            {
+                return NotFound();
+            }
+
+            return Ok(chopper);
         }
         
         // POST: api/Choppers
