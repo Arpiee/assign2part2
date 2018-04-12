@@ -24,7 +24,7 @@ namespace Assign2API.Controllers
         [HttpGet]
         public IEnumerable<Chopper> Get()
         {
-            return db.Choppers.ToList();
+            return db.Choppers.OrderBy(a => a.Title).ToList();
         }
 
         // GET: api/Choppers/5
